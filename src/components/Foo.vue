@@ -10,7 +10,7 @@ export default {
   introduction: "displaoy message.",
   description: `
     This is amazing component.
-  `
+  `,
   token: "<foo msg='ALL OK'></foo>",
   props: {
     msg: {
