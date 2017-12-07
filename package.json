@@ -1,6 +1,6 @@
 {
   "name": "my-components-sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My Component Sample",
   "main": "index.js",
   "cdn": "dist/my-components-sample.min.js",
